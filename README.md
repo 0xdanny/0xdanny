@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">A passionate Flutter developer from Nigeria</h3>
+<h1>Hello 👋, I'm Danny</h1>
+<h3>A passionate Flutter developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdanny&label=Profile%20views&color=0e75b6&style=flat" alt="0xdanny" /> </p>
 
