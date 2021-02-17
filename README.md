@@ -1,15 +1,18 @@
-<h1>Hello 👋, I'm Danny</h1>
-<h3>A passionate Flutter developer from Nigeria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdanny&label=Profile%20views&color=0e75b6&style=flat" alt="0xdanny" /> </p>
-
-<p align="left"> <a href="https://twitter.com/0xdanny" target="blank"><img src="https://img.shields.io/twitter/follow/0xdanny?logo=twitter&style=for-the-badge" alt="0xdanny" /></a> </p>
+### Hi there 👋 
+### I'm Danny, a passionate mobile application developer currently working with Dart and Flutter.
 
 - 🔭 I’m currently working on **Parcel**
+- 📖 Currently learning: Python and Typescript
+- 👯 I’m looking to collaborate on any open-source project
 
-- 👯 I’m looking to collaborate on **any Dart/Flutter project**
+#### Follow me
+[![Twitter: 0xdanny](https://img.shields.io/twitter/follow/0xdanny?style=social)](https://twitter.com/0xdanny)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xdanny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xdanny" height="30" width="40" /></a>
-</p>
+**Languages and Tools:**  
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdanny&label=Profile%20views&color=0e75b6&style=flat" alt="0xdanny" /> </p>
