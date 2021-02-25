@@ -2,7 +2,7 @@
 ### I'm Danny, a passionate mobile application developer currently working with Dart and Flutter.
 
 - 🔭 I’m currently working on **Parcel** with Flutter!
-- 📖 Currently learning: Python and Typescript
+- 📖 Currently learning: Golang!
 - 👯 I’m looking to collaborate on any open-source project
 
 #### Follow me
