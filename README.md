@@ -2,7 +2,7 @@
 ### I'm Danny, a passionate mobile application developer currently working with Dart and Flutter.
 
 - 🔭 I’m currently working on **Rescape** with Flutter!
-- 📖 Currently learning: Rust!
+- 📖 Currently learning: Go!
 - 👯 I’m looking to collaborate on any open-source project
 
 #### Follow me
