@@ -1,11 +1,14 @@
-### Hi there 👋 
-### I'm Danny, a passionate software engineer currently working with Dart/Flutter and Go.
+## Hi there 👋
 
-- 🔭 I’m currently working on **Re-star** with Golang!
-- 📖 Currently learning: Go!
-- 👯 I’m looking to collaborate on any open-source project
+I am **Daniel Etuk**, a **Mobile Application Developer** **skilled in developing applications with Dart/Flutter.** I also write **RESTful** and **gRPC** based **APIs** with **Golang** 
 
-#### Follow me
-[![Twitter: 0xdanny](https://img.shields.io/twitter/follow/0xdanny?style=social)](https://twitter.com/0xdanny)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdanny&label=Profile%20views&color=0e75b6&style=flat" alt="0xdanny" /> </p>
+- 🔭 I’m currently working on a **Blockchain** based voting system
+- 🌱 I’m currently learning **Blockchain**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about Flutter, Robotics & AI
+- 📫 How to reach me:
+  **[Twitter](https://twitter.com/0xdanny), [Instagram](https://instagram.com/danny.leo12)**
+
+![Danny's github stats](https://github-readme-stats.vercel.app/api?username=0xdanny&show_icons=true&hide_border=true&theme=dark)
