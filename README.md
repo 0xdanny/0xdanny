@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Daniel Etuk**, a **Software Engineer** skilled in developing mobile applications with **Dart/Flutter**. I also write **RESTful**, **gRPC** and **GraphQL** based **APIs** with **Golang** 
+I am **Daniel Etuk**, a **Software Engineer** skilled in developing mobile applications with **Dart/Flutter**. I also write **RESTful**, **gRPC** and **GraphQL** based **APIs**, **CMD** tools and utilities with **Golang** 
 
 ---
 
