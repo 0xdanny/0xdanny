@@ -7,7 +7,7 @@ I am **Daniel Etuk**, a **Software Engineer** skilled in developing mobile appli
 - 🔭 I’m currently working on a **Blockchain** based voting system
 - 🌱 I’m currently learning **Blockchain**
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about Flutter, IoT & Golang
+- 💬 Ask me about Flutter, IoT & Cybersecurity
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/0xdanny), [Instagram](https://instagram.com/danny.leo12), [LinkedIn](https://www.linkedin.com/in/daniel-etuk-a97683206)**
   
