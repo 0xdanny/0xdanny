@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I am **Daniel Etuk**, a **Software Engineer** skilled in developing mobile applications with **Dart/Flutter**. I also write **RESTful**, **gRPC** and **GraphQL** based **APIs**, **cmd** tools and utilities with **Golang** and the **.NET Framework**. 
-
+I am **Daniel Etuk**, a **Software Engineer** skilled in developing mobile applications with **Dart/Flutter**.
 ---
 
-- 🔭 I’m currently working on a cryptocurrency payment provider
-- 🌱 I’m currently learning and Product Management
+- 🔭 I’m currently working on a travel agency application
+- 🌱 I’m currently learning UI/UX design
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about Flutter & Cybersecurity
+- 💬 Ask me about Flutter & UX Design
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/0xdanny), [LinkedIn](https://www.linkedin.com/in/daniel-etuk-a97683206)**
   
